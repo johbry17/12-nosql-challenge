@@ -1,4 +1,4 @@
-## Module 12 Challenge, 11 September 2023, noSQL (MongoDB)
+## Module 12 Challenge, 11 September 2023, NoSQL (MongoDB)
 
 Development on this project has stopped.
 
